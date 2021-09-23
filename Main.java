@@ -5,5 +5,4 @@ public class Main {
         Sofa divan1 = new Sofa ( 150, 50, 80, "yellow");
         System.out.println(divan1);
     }
-
 }
